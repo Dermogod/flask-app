@@ -1,6 +1,6 @@
 # Web Application 
 ### Back-end written on Flask Framework
-### Front-end - Bootstrap
+### Front-end - Bootstrap + Jinja2 template
 ### Additional: 
 * Flask-SQLAlchemy, 
 * Flask-Admin, 
